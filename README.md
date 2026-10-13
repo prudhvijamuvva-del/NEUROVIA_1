@@ -287,4 +287,5 @@ For rapid hackathon testing without configuring email SMTP or Twilio:
 
 Never claim that an account or application is malicious based only on its name. BrandShield AI classifies discoveries as **potential risks** until verified by a trained human analyst. Legitimate authorized partners, regional distributors, and community groups must be reviewed through the platform's whitelisting features.
 #   N E U R O V I A _ 1  
+ #   N E U R O V I A _ 1  
  
